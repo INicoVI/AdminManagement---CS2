@@ -1,0 +1,12 @@
+C:\Users\halim\Desktop\source - Kopya\bin\Debug\net8.0\AdminManagement.deps.json
+C:\Users\halim\Desktop\source - Kopya\bin\Debug\net8.0\AdminManagement.dll
+C:\Users\halim\Desktop\source - Kopya\bin\Debug\net8.0\AdminManagement.pdb
+C:\Users\halim\Desktop\source - Kopya\obj\Debug\net8.0\AdminManagement.csproj.AssemblyReference.cache
+C:\Users\halim\Desktop\source - Kopya\obj\Debug\net8.0\AdminManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halim\Desktop\source - Kopya\obj\Debug\net8.0\AdminManagement.AssemblyInfoInputs.cache
+C:\Users\halim\Desktop\source - Kopya\obj\Debug\net8.0\AdminManagement.AssemblyInfo.cs
+C:\Users\halim\Desktop\source - Kopya\obj\Debug\net8.0\AdminManagement.csproj.CoreCompileInputs.cache
+C:\Users\halim\Desktop\source - Kopya\obj\Debug\net8.0\AdminManagement.dll
+C:\Users\halim\Desktop\source - Kopya\obj\Debug\net8.0\refint\AdminManagement.dll
+C:\Users\halim\Desktop\source - Kopya\obj\Debug\net8.0\AdminManagement.pdb
+C:\Users\halim\Desktop\source - Kopya\obj\Debug\net8.0\ref\AdminManagement.dll

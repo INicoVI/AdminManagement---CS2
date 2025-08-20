@@ -1,9 +1,7 @@
 # AdminManagement-CS2
-This code is in Turkish. I will respond in Turkish.
-
-Elbette, Counter-Strike: Global Offensive veya Counter-Strike 2 için CounterStrikeSharp kullanılarak yazılmış bu admin menüsü eklentisi için bir GitHub açıklaması yazabilirim. Açıklama metni, projenin ne olduğunu, özelliklerini ve nasıl kurulacağını net bir şekilde anlatmalıdır.
 
 Gelişmiş Yönetim Menüsü (Advanced Admin Menu)
+
 Counter-Strike 2 için geliştirilmiş bu eklenti, sunucu yöneticilerine oyun içi sohbet menüsü aracılığıyla oyuncuları ve sunucuyu yönetme imkanı sunar. Kullanıcı dostu arayüzü sayesinde, komut satırı kullanmaya gerek kalmadan temel yönetim işlemlerini hızlı ve kolay bir şekilde gerçekleştirebilirsiniz.
 
 ✨ Özellikler

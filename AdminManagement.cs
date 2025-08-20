@@ -16,7 +16,7 @@ public class AdminManagement : BasePlugin
 {
     public override string ModuleName => "Gelişmiş Yönetim Menüsü";
     public override string ModuleVersion => "1.0";
-    public override string ModuleAuthor => "Gemini";
+    public override string ModuleAuthor => "NicoV";
 
     public override void Load(bool hotReload)
     {
@@ -144,4 +144,5 @@ public class AdminManagement : BasePlugin
         Server.PrintToChatAll($" {ChatColors.Red}[SUNUCU BİLGİSİ]{ChatColors.White} {ChatColors.LightBlue}Sunucuyu favorilerinize ekleyin!");
         Server.PrintToChatAll($" {ChatColors.LightBlue}IP Adresi:{ChatColors.White} {ip}:{port}");
     }
+
 }
